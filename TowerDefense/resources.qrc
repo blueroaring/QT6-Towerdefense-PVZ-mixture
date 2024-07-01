@@ -1,0 +1,103 @@
+<RCC>
+    <qresource prefix="/new/Image">
+        <file>Images/Others/Scenes/icon.png</file>
+        <file>Images/Others/controller/Options.png</file>
+        <file>Images/Others/controller/menulist/pushbutton.png</file>
+        <file>Images/Others/controller/help.jpg</file>
+        <file>Images/Others/controller/back.png</file>
+        <file>Images/Others/controller/zintro.jpg</file>
+        <file>Images/Others/controller/pintro.jpg</file>
+        <file>Images/Others/controller/chooseseeds.jpg</file>
+        <file>Images/Others/controller/level.png</file>
+        <file>Images/Others/controller/menulist/store.png</file>
+        <file>Images/Others/controller/menulist/showel.png</file>
+        <file>Images/Others/controller/menulist/showelsocket.png</file>
+        <file>Images/Others/Scenes/getzombies.jpg</file>
+        <file>Images/Others/Scenes/grass.jpg</file>
+        <file>Images/Others/Scenes/home.jpg</file>
+        <file>Images/Others/Scenes/land.jpg</file>
+        <file>Images/Others/Scenes/water.jpg</file>
+        <file>Images/Others/Sun/Sun.gif</file>
+        <file>Images/Others/controller/Shop.png</file>
+        <file>Images/Others/controller/Card.png</file>
+    </qresource>
+    <qresource prefix="/shopcard">
+        <file>Images/Plants/Cabbagepult/idle.gif</file>
+        <file>Images/Plants/Blover/idle.gif</file>
+        <file>Images/Plants/Cactus/idle.gif</file>
+        <file>Images/Plants/Caltrop/idle.gif</file>
+        <file>Images/Plants/Cattail/idle.gif</file>
+        <file>Images/Plants/CherryBomb/idle.gif</file>
+        <file>Images/Plants/Chomper/idle.gif</file>
+        <file>Images/Plants/GatlingPea/idle.gif</file>
+        <file>Images/Plants/LilyPad/idle.gif</file>
+        <file>Images/Plants/PeaShooter/idle.gif</file>
+        <file>Images/Plants/PeaShooterSingle/idle.gif</file>
+        <file>Images/Plants/PotatoMine/idle.gif</file>
+        <file>Images/Plants/SnowPea/idle.gif</file>
+        <file>Images/Plants/SplitPea/idle.gif</file>
+        <file>Images/Plants/SunFlower/idle.gif</file>
+        <file>Images/Plants/Tallnut/idle.gif</file>
+        <file>Images/Plants/ThreePeater/idle.gif</file>
+        <file>Images/Plants/Wallnut/idle.gif</file>
+        <file>Images/Plants/Wallnut/Wallnut_cracked1.gif</file>
+        <file>Images/Plants/Wallnut/Wallnut_cracked2.gif</file>
+        <file>Images/Plants/Chomper/bite.gif</file>
+        <file>Images/Plants/CherryBomb/Boom.gif</file>
+        <file>Images/Plants/CherryBomb/explode.gif</file>
+        <file>Images/Plants/Caltrop/attack.gif</file>
+        <file>Images/Plants/shopcard/caltrop.jpg</file>
+    </qresource>
+    <qresource prefix="/cards">
+        <file>Images/Plants/shopcard/CherryBomb.png</file>
+        <file>Images/Plants/shopcard/Chomper.png</file>
+        <file>Images/Plants/shopcard/Peashooter.png</file>
+        <file>Images/Plants/shopcard/PotatoMine.png</file>
+        <file>Images/Plants/shopcard/Repeater.png</file>
+        <file>Images/Plants/shopcard/SnowPea.png</file>
+        <file>Images/Plants/shopcard/SunFlower.png</file>
+        <file>Images/Plants/shopcard/WallNut.png</file>
+        <file>Images/Plants/shopcard/cutt.png</file>
+        <file>Images/Others/FirePea/FirePea.gif</file>
+        <file>Images/Others/FirePea/PeaIce_0.png</file>
+        <file>Images/Others/FirePea/PeaNormal_0.png</file>
+        <file>Images/Others/FirePea/PeaNormalExplode_0.png</file>
+    </qresource>
+    <qresource prefix="/Zombies">
+        <file>Images/Zombies/Zombie/need/death(2).png</file>
+        <file>Images/Zombies/Zombie/need/death.png</file>
+        <file>Images/Zombies/Zombie/need/eat(2).png</file>
+        <file>Images/Zombies/Zombie/need/eat(3).png</file>
+        <file>Images/Zombies/Zombie/need/eat.png</file>
+        <file>Images/Zombies/Zombie/need/idle(2).png</file>
+        <file>Images/Zombies/Zombie/need/idle.png</file>
+        <file>Images/Zombies/Zombie/need/walk(2).png</file>
+        <file>Images/Zombies/Zombie/need/walk.png</file>
+    </qresource>
+    <qresource prefix="/words">
+        <file>Images/Others/words/bomb.png</file>
+        <file>Images/Others/words/cure.png</file>
+        <file>Images/Others/words/disturb.png</file>
+        <file>Images/Others/words/faster.png</file>
+        <file>Images/Others/words/freeze.png</file>
+        <file>Images/Others/words/jump.png</file>
+        <file>Images/Others/words/knock.png</file>
+        <file>Images/Others/words/lower.png</file>
+        <file>Images/Others/words/refresh.png</file>
+        <file>Images/Others/words/shutdown.png</file>
+    </qresource>
+    <qresource prefix="/levelimage">
+        <file>Images/Others/Scenes/level1.png</file>
+        <file>Images/Others/Scenes/level2.png</file>
+        <file>Images/Others/Scenes/level3.png</file>
+        <file>Images/Others/Scenes/level4.png</file>
+    </qresource>
+    <qresource prefix="/help">
+        <file>Images/Others/controller/envelope/ZombieNote1.png</file>
+        <file>Images/a1.png</file>
+        <file>Images/a2.png</file>
+        <file>Images/a3.png</file>
+        <file>Images/a4.png</file>
+        <file>Images/a5.png</file>
+    </qresource>
+</RCC>

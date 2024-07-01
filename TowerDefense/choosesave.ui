@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>choosesave</class>
+ <widget class="QDialog" name="choosesave">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="text">
+    <string>由于没做好，这个地图只能修改看不能出怪，数组对应了从左往右，8行14列的区块，0：水上不可种格，1：路径  2：出怪口 3：草皮 4：家,重复存档会使文件被覆盖，请及时修改文件名！</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
